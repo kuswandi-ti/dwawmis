@@ -1,0 +1,10 @@
+ETP (Ekspedisi to Produksi) -> STC (Shipping to Customer) -> CTE (Customer to Ekspedisi).
+
+WTV (Warehouse to Vendor) -> VTW (Vendor to Warehouse).
+
+
+23 Maret 2015
+===============
+STC (Shipping to Customer) -> CTE (Customer to Ekspedisi).
+
+WTV (Warehouse to Vendor) -> VTW (Vendor to Warehouse).
